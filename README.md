@@ -3,7 +3,10 @@
 <h3 align="center">A passionate Software Developer student at Get Coding</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 🔭 I’m currently working on **Event Calendar**
+
+## About Me
+
+- 🔭 I’m currently a Software Developer student at Get Coding. I built my first project using HTML, CSS and JavaScript. I wanted to make my own Agenda Calendar where I could make and store all the events so I could keep up with my busy schedule as a nurse, developer and a father. Please feel free to check out my project.
 
 - 🌱 I’m currently learning **React.Js**
 
