@@ -6,11 +6,11 @@
 
 ## About Me
 
-- 🔭 I’m currently a Software Developer student at Get Coding. I built my first project using HTML, CSS and JavaScript. I wanted to make my own Agenda Calendar where I could make and store all the events so I could keep up with my busy schedule as a nurse, developer and a father. Please feel free to check out my project.
+- 🔭 I’m a Software Developer student at Get Coding. I built my first project using HTML, CSS and JavaScript. I wanted to make my own agenda with the calendar where I can create and check on my appointments and any other events. The events created will be saved to localStorage and can be viewed at anytime. Please check out my project at https://eelezovic.github.io/Event-Calendar/.
 
 - 🌱 I’m currently learning **React.Js**
 
-- ⚡ Fun fact: **I am a nurse, artist and I love to play (real) football :)**
+- ⚡ Fun fact: **I am a nurse, artist and I love to play Football, aka Soccer :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
