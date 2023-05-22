@@ -8,7 +8,7 @@
 
 - 🔭 I’m a Software Developer student at Get Coding. I built my first project using HTML, CSS and JavaScript. I wanted to make my own agenda with the calendar where I can create and check on my appointments and any other events. The events created will be saved to localStorage and can be viewed at anytime. Please check out my project at https://eelezovic.github.io/MyAgenda/.
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently learning **Node.Js**
 
 - ⚡ Fun fact: **I am a nurse, artist and I love to play Football, aka Soccer :)**
 
