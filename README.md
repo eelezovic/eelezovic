@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Instrument Tracking System**
 
-- 🌱 I’m currently learning **Node.Js**
+- 🌱 I’m currently learning **Node.Js, Express.js and MySQL**
 
 - ⚡ Fun fact: **I am a nurse, artist and I love to play Football, aka Soccer :)**
 
