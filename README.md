@@ -6,11 +6,19 @@
 
 ## About Me
 
-- 🔭 I am a Software Developer student at Get Coding, where I enrolled in 2022. During my time at Get Coding, I successfully completed my first project using HTML, CSS, and JavaScript. This project involved the creation of a personalized agenda with a calendar feature, allowing me to manage appointments and events efficiently. One of the key functionalities of my agenda is the ability to save events to the browser's localStorage, enabling easy access and retrieval at any time. I would greatly appreciate it if you could check out my project at https://eelezovic.github.io/MyAgenda/. In addition, I am currently working on my second project, which involves developing an application to aid in tracking and locating surgical instruments within the Operating Room. The front-end part of this project has been completed, and I am now actively engaged in working on the back-end functionality. Here is the link to my second project; https://eelezovic.github.io/surgitrack/#/
+- 💻  I began my coding journey at Get Coding in 2022, honing my skills in HTML, CSS, and JavaScript, Node.js, Express, MySQL. Since then, I've evolved into a Full Stack Developer, navigating the complexities of both frontend and backend technologies.
+
+
+### MyAgenda Project
+I successfully completed my first project, a personalized agenda with a calendar feature, using HTML, CSS, and JavaScript. Manage appointments and events efficiently, with the ability to save events to localStorage. Explore [MyAgenda](https://eelezovic.github.io/MyAgenda/).
+
+### SurgiTrack Project
+As a Full Stack Developer, I've developed SurgiTrack, a comprehensive system for efficient surgical procedure management. The frontend is built with React.js and CSS, supported by Node.js, Express, and MySQL on the backend. The intuitive UI facilitates surgical instrument tracking within the Operating Room. Explore [SurgiTrack](https://surgitrack.fly.dev/).
+
 
 - 🔭 I’m currently working on **Instrument Tracking System**
 
-- 🌱 I’m currently learning **Node.Js, Express.js and MySQL**
+- 🌱 I’m currently learning **TypeScript**
 
 - ⚡ Fun fact: **I am a nurse, artist and I love to play Football, aka Soccer :)**
 
