@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 💻  I began my coding journey at Get Coding in 2022, honing my skills in HTML, CSS, and JavaScript, Node.js, Express, MySQL. Since then, I've evolved into a Full Stack Developer, navigating the complexities of both frontend and backend technologies.
+- 💻  I began my coding journey at Get Coding bootcamp in 2022, honing my skills in HTML, CSS, and JavaScript, Node.js, Express, MySQL. Since then, I've evolved into a Full Stack Developer, navigating the complexities of both frontend and backend technologies.
 
 
 ### MyAgenda Project
