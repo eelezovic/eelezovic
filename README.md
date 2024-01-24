@@ -1,26 +1,23 @@
 ![MasterHead](https://obc.com.tr/wp-content/uploads/2019/01/banner-software-development.png)
 <h1 align="center">Hi 👋, I'm Emir Elezovic</h1>
-<h3 align="center">A passionate Full Stack Developer from Ottawa, Canada</h3>
+<h3 align="center">A passionate Full-Stack Developer from Ottawa, Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-
 
 ## About Me
 
-- 💻  I began my coding journey at Get Coding bootcamp in 2022, honing my skills in HTML, CSS, and JavaScript, Node.js, Express, MySQL. Since then, I've evolved into a Full Stack Developer, navigating the complexities of both frontend and backend technologies.
+- 💻 I am currently working with Dekki Ai as a Full-Stack Developer. I leverage my passion for coding and continuous learning to build innovative software solutions using the latest technologies. My expertise lies in TypeScript, React.js, Node.js, Express.js, and MySQL.
+
+## Projects
+
+- 🏥 [SurgiTrack](https://surgitrack.fly.dev/)
+- 📅 [MyAgenda](https://eelezovic.github.io/MyAgenda/)
+- 🌊 [Azra Apartments](https://eelezovic.github.io/azra-apartments/#/)
 
 
-### MyAgenda Project
-I successfully completed my first project, a personalized agenda with a calendar feature, using HTML, CSS, and JavaScript. Manage appointments and events efficiently, with the ability to save events to localStorage. Explore [MyAgenda](https://eelezovic.github.io/MyAgenda/).
-
-### SurgiTrack Project
-As a Full Stack Developer, I've developed SurgiTrack, a comprehensive system for efficient surgical procedure management. The frontend is built with React.js and CSS, supported by Node.js, Express, and MySQL on the backend. The intuitive UI facilitates surgical instrument tracking within the Operating Room. Explore [SurgiTrack](https://surgitrack.fly.dev/).
 
 
-- 🔭 I’m currently working on **Instrument Tracking System**
 
-- 🌱 I’m currently learning **TypeScript**
-
-- ⚡ Fun fact: **I am a nurse, artist and I love to play Football, aka Soccer :)**
+- ⚡ Fun fact:  I am a nurse and an artist, and I love to play football, also known as soccer. ⚽ 🎨 👨‍⚕️ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
