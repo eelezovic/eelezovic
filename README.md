@@ -5,7 +5,7 @@
 
 ## About Me
 
-- 💻 I am currently working with Dekki Ai as a Front-end Developer. I leverage my passion for coding and continuous learning to build innovative software solutions using the latest technologies. My expertise lies in TypeScript, React.js, Node.js, Express.js, and MySQL.
+- 💻 I am currently working with Dekki Ai as a software developer. I leverage my passion for coding and continuous learning to build innovative software solutions using the latest technologies. My expertise lies in TypeScript, React.js, Node.js, Express.js, and MySQL.
 
 ## Projects
 
